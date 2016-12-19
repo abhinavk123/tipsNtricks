@@ -124,25 +124,25 @@
 41. [__fzf__](https://github.com/junegunn/fzf) - a genral purpose command line fuzzy finder, install it nd press `Ctrl + R` or `Ctrl + T` or `ALT + C` in terminal to see the magic.
 
 ## Windows softwares and unilities
-1. **Putty** - ssh tunnelling in windows.
-2. **Rainmeter** - cool themes for windows
-3. **Cygwin** - Linux like environment for windows
-4. **Bitvise SSH server** - Create free SSH server
-5. **Open VPN**
-6. **Git bash** - git command line interface for Windows
-7. **Ext2explorer**
+1. [**Putty**](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) - ssh tunnelling in windows.
+2. [**Rainmeter**](https://www.rainmeter.net) - cool themes for windows
+3. [**Cygwin**](https://cygwin.com/install.html) - Linux like environment for windows
+4. [**Bitvise SSH server**](https://www.bitvise.com/ssh-client-download) - Create free SSH server
+5. [**Open VPN**](https://openvpn.net/) - To browse internet securely with encryption.
+6. [**Git bash**](https://github.com/msysgit/msysgit/releases/) - git command line interface for Windows
+7. [**Ext4explorer**](https://sourceforge.net/projects/ext4explore/files/latest/download) - to browse other linux files in windows
 8. **Virtual Box, VMware** - run different OS in windows.
-9. **Proxyfire**
-10. **Privoxy** - Routing everything via tor
+9. [**Proxyfire**](https://www.proxifier.com/download.htm) - to link proxy to every application
+10. [**Privoxy**](https://www.privoxy.org/sf-download-mirror/Win32/) - Routing everything via tor
 11. **Saavn,Gaana , Elpis, Audials** - Songs related apps
-12. **LastPas** - Stores password
-13. **IDM** - Download Manager, faster than browser downloader.
-14. **Universal USB installer** - create bootable pendrives
+12. [**LastPas**](https://lastpass.com/misc_download2.php) - Stores password
+13. [**IDM**](https://www.internetdownloadmanager.com/download.html) - Download Manager, faster than browser downloader.
+14. [**Universal USB installer**](https://www.pendrivelinux.com/downloads/Universal-USB-Installer/Universal-USB-Installer-1.9.6.9.exe) - create bootable pendrives
 15. **Visual Code** - Code editor
 16. **Creating an ad-hoc**
-17. **Netscan** - easily detect which systems on LAN are open.
-18. **Ease US partiion manager and recovery** - recovers partition and changes the partition length.
-19. **Format Factory** - convert any format to any format
+17. [**Netscan**](https://www.softperfect.com/products/networkscanner/) - easily detect which systems on LAN are open.
+18. [**Ease US partition manager and recovery**](http://www.easeus.com/) - recovers partition and changes the partition length.
+19. [**Format Factory**](https://format-factory.en.softonic.com/) - convert any format to any format
 20. **Visual Studio Community Edition** - Best C/C++ ide for MS Windows
 21. [**Everything**](https://www.voidtools.com/) - Super fast Desktop search engine
 22. [**Team Viewer**](https://www.teamviewer.com/) - Desktop sharing application
